@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+dist/
+build/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific
+backend/database.db
+backend/users.xlsx
+debug_backend.py
+start_app.bat
+
+# IDE
+.vscode/
+.idea/
